@@ -21,12 +21,12 @@ Modular rule-based driver with:
 - Optimized gear shift points for this track
 
 ## Key Parameters
-TARGET_SPEED = 135
-STEER_GAIN = 25
-CENTERING_GAIN = 0.50
-BRAKE_THRESHOLD = 0.26
-GEAR_SPEEDS = [0, 25, 45, 75, 110, 170]
-ENABLE_TRACTION_CONTROL = True
+- TARGET_SPEED = 135
+- STEER_GAIN = 25
+- CENTERING_GAIN = 0.50
+- BRAKE_THRESHOLD = 0.26
+- GEAR_SPEEDS = [0, 25, 45, 75, 110, 170]
+- ENABLE_TRACTION_CONTROL = True
 
 ## vs Baseline
 
